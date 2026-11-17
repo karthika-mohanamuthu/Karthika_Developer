@@ -1,4 +1,4 @@
-# Karthika M — 3D Portfolio
+# Karthika M — Portfolio
 
 A responsive personal portfolio built with HTML, CSS, JavaScript and Three.js.
 
